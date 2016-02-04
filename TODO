@@ -1,5 +1,10 @@
-- Decide on an idea
 - Learn flask
 - Get HTML5UP Templates ready
 - Learn how to edit the HTML5UP Templates
 - Build Web App
+- Get a .cf domain
+- Use ras2 to host and get a server (nginx) to serve site
+- Learn django to allow using python
+- Learn how to manage the db that would be needed
+- Add integration support for "plugins"
+- Create formats for widgets
