@@ -1,3 +1,16 @@
+New:
+- Learn how to scape html
+	- Identify tables
+	- Get table element id's
+- Add html to a site through an extension
+	- What html has to be displayed
+	- Display html and save to grid action button above the table
+- Parse and store tables
+	- Parsing table data as json
+	- Convert json to xlsx
+- Saving to Big Parser
+	- Login as user
+	- Upload xlsx file
+Done:
 - Setup manifest
 - Learn how to operate Big Parser's API's
-- Learn how to scape html and add html to a site through an extension
